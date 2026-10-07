@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Christoffer 👋
 
-<!--
-**xT0ASTED/xT0ASTED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer from Copenhagen. Founder of **Staxified**, co-founder of **Kvæk** and co-owner of **StaxiTech**. I build products from the first line of code to production, with paying users.
 
-Here are some ideas to get you started:
+🌐 [christoffer.page](https://christoffer.page) · 💼 [LinkedIn](https://www.linkedin.com/in/christoffer-jensen-dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+
+[![Stack](https://skillicons.dev/icons?i=php,laravel,java,ts,js,react,nodejs,nestjs,prisma,mysql,postgres,linux,git&perline=13)](https://skillicons.dev)
+
+### GitHub activity
+
+![Streak](https://streak-stats.demolab.com?user=xT0ASTED&theme=github-dark-blue&hide_border=true)
